@@ -1,0 +1,25 @@
+package Interfaces;
+/**
+* Interface de exemplo para exercicio da aula 4 de orientacao a objeto.
+**/
+
+public class Calculadora implements OperacoesMatematicas {
+	
+	public void soma(double operando1, double operando2) {
+		System.out.println("Soma :" + (operando1 + operando2));
+	}
+	
+	public void subitracao(double operando1, double operando2) {
+		System.out.println("Soma :" + (operando1 - operando2));
+	};
+	
+	public void multiplicacao(double operando1, double operando2) {
+		System.out.println("Soma :" + (operando1 * operando2));
+	}
+	
+	public void divisao(double operando1, double operando2) {
+		System.out.println("Soma :" + (operando1 / operando2));
+	}	
+
+
+}

@@ -1,0 +1,10 @@
+package Fundamentos;
+
+public class Ex1_Carro {
+	
+	String cor;
+	String modelo;
+	int capacidadeTanque;
+	
+
+}

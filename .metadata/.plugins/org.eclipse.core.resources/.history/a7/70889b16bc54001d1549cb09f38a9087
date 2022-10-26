@@ -1,0 +1,10 @@
+package Fundamentos;
+
+public class RodarAplicacao {
+	
+	Ex1_Carro carro = new Ex1_Carro();
+	carro.setCor("Branco");
+	carro.setModelo("Fiat");
+	carro.setCapacidadeTanque(60);
+
+}

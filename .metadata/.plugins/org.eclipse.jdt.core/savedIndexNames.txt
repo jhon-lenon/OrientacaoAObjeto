@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\ProjetosDIO\OrientracaoAObjeto\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3341290591.index
+3959137331.index

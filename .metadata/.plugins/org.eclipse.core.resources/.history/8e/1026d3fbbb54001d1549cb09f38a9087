@@ -1,0 +1,47 @@
+package Fundamentos;
+
+class Ex1_Carro {
+	
+	String cor;
+	String modelo;
+	int capacidadeTanque;
+	
+	Ex1_Carro() {
+		
+	}
+	
+	Ex1_Carro(String cor, String modelo, int capacidadeTanque) {
+		
+	}
+	
+		
+	String getCor() {
+		return cor;
+	}
+	void setCor(String cor) {
+		this.cor = cor;
+	}
+	String getModelo() {
+		return modelo;
+	}
+	void setModelo(String modelo) {
+		this.modelo = modelo;
+	}
+	int getCapacidadeTanque() {
+		return capacidadeTanque;
+	}
+	void setCapacidadeTanque(int capacidadeTanque) {
+		this.capacidadeTanque = capacidadeTanque;
+	}
+	
+	
+	double totalValorTanque(double valorCombustivel) {
+		return capacidadeTanque * valorCombustivel;
+	}
+	
+	
+	
+	
+	
+
+}

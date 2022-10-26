@@ -1,0 +1,17 @@
+package Fundamentos;
+
+class RodarAplicacao {
+	public static void main(String[] args) {
+		
+		Ex1_Carro carro1 = new Ex1_Carro();
+		carro1.setCor("Branco");
+		carro1.setModelo("Fiat");
+		carro1.setCapacidadeTanque(60);
+		
+		System.out.println("Carro Modelo: " + carro1.getModelo());
+		System.out.println("Cor: " + carro1.getCor());
+		System.out.println("Capacidade do Tanque: " + carro1.getCapacidadeTanque());
+	
+	
+	}
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Polimorfismo.Funcionario"/>
+    <fullyQualifiedTypeName name="Polimorfismo.Gerente"/>
+    <fullyQualifiedTypeName name="Polimorfismo.Faxineiro"/>
+    <fullyQualifiedTypeName name="Polimorfismo.Vendedor"/>
+    <fullyQualifiedTypeName name="ClasseMaeEClasseFilha.ClasseFilha1"/>
+    <fullyQualifiedTypeName name="ClasseMaeEClasseFilha.ClasseMae"/>
+    <fullyQualifiedTypeName name="ClasseMaeEClasseFilha.ClasseFilha2"/>
+</qualifiedTypeNameHistroy>
